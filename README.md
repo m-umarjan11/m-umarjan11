@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **CPP, C, Matlab, Python, HTML, CSS, SCSS, Bootstrap**
+- 💬 Ask me about **CPP, C, Matlab, Python, HTML, CSS**
 
 - 📫 How to reach me **muhammad.umar.jan11@gmail.com**
 
