@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **CPP, C, Matlab, Python, HTML, CSS**
 
-- 📫 How to reach me **muhammad.umar.jan11@gmail.com**
+- 📫 How to reach me  **muhammad.umar.jan11@gmail.com**
 
 - ⚡ Fun fact **I think I am very funny :)**
 
