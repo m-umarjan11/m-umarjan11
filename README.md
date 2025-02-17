@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Jan</h1>
-<h3 align="center">HELLO! It's me, Muhammad Umar Jan. You've never heard about me. And I've never thought that I write a README of myself. Actually I am a student of Computer System Engineering. I am a python programmer.I have a passion for ML and Cloud Sorces. Don't worry and feel free for connection and see.</h3>
+<h3 align="center">HELLO! It's me, Muhammad Umar Jan. You've never heard about me. And I've never thought that I write a README of myself. Actually I am a student of Computer System Engineering. Interested in the Field's of Artificial intelligence, Machine learning and Data science. Looking to develop myself as a professional while having the opportunity to change people's lives. Don't worry and feel free for connection and see.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umarjan11&label=Profile%20views&color=0e75b6&style=flat" alt="m-umarjan11" /> </p>
 
